@@ -1,0 +1,21 @@
+{
+    "name": "everwishes/yii2-alipay",
+    "description": "alipay",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "everwishes",
+            "email": "64694275@qq.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "alipay\\": ""
+        }
+    }
+}
